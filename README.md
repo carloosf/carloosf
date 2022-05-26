@@ -1,7 +1,7 @@
 ### Olá Sou Carlos Silva!👋
 
 - 🔭 A procura do primeira oportunidade no mercado de desenvolvimento
-- 🌱 Estudante de Ciências da Computação e de back-end
+- 🌱 Estudante de Ciências da Computação
 
 <div align="center">
   <a href="https://github.com/guaxelo">
