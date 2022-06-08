@@ -1,6 +1,5 @@
 ### Olá Sou Carlos Silva!👋
 
-- 🔭 A procura do primeira oportunidade no mercado de desenvolvimento
 - 🌱 Estudante de Ciências da Computação
 
 <div align="center">
