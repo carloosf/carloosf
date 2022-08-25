@@ -1,6 +1,6 @@
 ### Olá Sou Carlos Silva!👋
 
-- 🌱 Estudante de Ciências da Computação
+- 🌱 Estudante de Sistema da informação
 
 <div align="center">
   <a href="https://github.com/guaxelo">
