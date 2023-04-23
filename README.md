@@ -1,4 +1,4 @@
-### Olá Sou Carlos Silva!👋
+### Olá, Sou Carlos Silva!👋
 
 - 🌱 Estudante de Sistema da informação
 
