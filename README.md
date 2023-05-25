@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/ccarlossilv">
         <img src="https://img.shields.io/badge/linkedin-blue?style=flat-&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="https://www.linkedin.com/in/ccarlossilv">
+    <a href="mailto:contato.carlossilvaf@gmail.com">
         <img src="https://img.shields.io/badge/gmail-white?style=for-the-badge-&logo=gmail" alt="LinkedIn">
     </a>
 </p>
