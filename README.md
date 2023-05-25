@@ -4,8 +4,7 @@
     <b>Bem vindo ao meu perfil!</b><br><br>
     <i>
         Eu sou Carlos.<br>
-        Estudando programação, atualmente migrando para Typescript.<br>
-        Futuro Fullstack.<br>
+        Estudando programação Web, Futuro Fullstack.<br>
         Abra meus projetos e leia um pouco a documentação deles caso queira entrar em contato, só clicar abaixo.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/ccarlossilv">
