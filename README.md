@@ -4,10 +4,10 @@
     <b>Bem vindo ao meu perfil!</b><br><br>
     <i>
         Eu sou Carlos.<br>
-        Estudando programação Web, Futuro Fullstack.<br>
+        Programador Web.<br>
         Abra meus projetos e leia um pouco a documentação deles caso queira entrar em contato, só clicar abaixo.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/ccarlossilv">
+    <a href="https://www.linkedin.com/in/carloosf">
         <img src="https://img.shields.io/badge/linkedin-blue?style=flat-&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="mailto:contato.carlossilvaf@gmail.com">
