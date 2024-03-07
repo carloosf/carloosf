@@ -17,7 +17,8 @@
 
 ### Linguagens
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/carloosf)
-[![JavaScript](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/carloosf)
+[![TypeScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=typescript)](https://github.com/carloosf)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/carloosf)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/carloosf)
 
 ### Banco de dados
@@ -26,8 +27,6 @@
 ### Technologies & Frameworks
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/carloosf)
 [![React](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=next)](https://github.com/carloosf)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/carloosf)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/carloosf)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/carloosf)
 
 ### OS
@@ -45,9 +44,6 @@
   <a href="https://github.com/carloosf">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carloosf&theme=transparent" />
   </a>
-  <a href="https://github.com/carloosf">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloosf&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
 </p>
 </details>
 
@@ -56,14 +52,4 @@
     <img src="https://komarev.com/ghpvc/?username=carloosf&color=blue&style=flat)" />
   </a>
 </p>
-<!--
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
