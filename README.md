@@ -4,7 +4,7 @@
     <b>Bem vindo ao meu perfil!</b><br><br>
     <i>
         Eu sou Carlos.<br>
-        Cientista de Dados<br>
+        Desenvolvedor Web<br>
         Abra meus projetos e leia um pouco a documentação deles caso queira entrar em contato, só clicar abaixo.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/carloosf">
