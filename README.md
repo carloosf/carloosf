@@ -16,17 +16,17 @@
 </p>
 
 ### Linguagens
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/carloosf)
-[![TypeScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=typescript)](https://github.com/carloosf)
+[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/carloosf)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/carloosf)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/carloosf)
 
 ### Banco de dados
-[![PostgreSql](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=postgresql)](https://github.com/carloosf)
+[![PostgreSQL](https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=postgresql)](https://github.com/carloosf)
+[![MongoDB](https://img.shields.io/badge/mongodb-white?style=for-the-badge&logo=mongodb)](https://github.com/carloosf)
+
 
 ### Technologies & Frameworks
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/carloosf)
-[![React](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=next)](https://github.com/carloosf)
+[![NextJS](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=next)](https://github.com/carloosf)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/carloosf)
 
 ### OS
