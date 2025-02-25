@@ -14,7 +14,12 @@
         <img src="https://img.shields.io/badge/gmail-white?style=for-the-badge-&logo=gmail" alt="LinkedIn">
     </a>
 </p>
-
+<!-- Contador de Visitantes -->
+<div align="center">
+  <br><p align="center"><b>Quantidade de visitantes</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{larialbu}/count.svg" /></p> 
+  <br>
+</div>
 ### Linguagens
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/carloosf)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/carloosf)
