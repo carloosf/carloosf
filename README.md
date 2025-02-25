@@ -17,7 +17,7 @@
 <!-- Contador de Visitantes -->
 <div align="center">
   <br><p align="center"><b>Quantidade de visitantes</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{larialbu}/count.svg" /></p> 
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{carloosf}/count.svg" /></p> 
   <br>
 </div>
 ### Linguagens
